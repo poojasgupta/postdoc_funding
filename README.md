@@ -19,6 +19,10 @@ I have decided to import it to GitHub in order to facilitate its modification an
 11. [USGS Mendenhall Research Fellowship Program](http://geology.usgs.gov/postdoc/)
 12. [Living Oceans Foundation](http://www.livingoceansfoundation.org/index.php?option=com_content&view=article&id=46&Itemid=178)
 13. [Robert Wood Johnson Foundation Health & Society Scholars](http://www.healthandsocietyscholars.org/)
+14. [Presidential Management Fellowship Program](http://www.pmf.gov/)
+15. [AAAS Science & Technology Policy Fellowships](http://fellowships.aaas.org/)
+16. [California Council on Science and Technology (CCST) Policy Fellowship](http://fellows.ccst.us/index.php)
+17. [NAS Christine Mirzayan Policy Fellowships](http://sites.nationalacademies.org/pga/policyfellows/)
 
 ## Institutional postdocs
 
