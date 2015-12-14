@@ -26,4 +26,33 @@ I have decided to import it to GitHub in order to facilitate its modification an
 
 ## Institutional postdocs
 
+1. [National Center for Ecological Analysis and Synthesis (NCEAS)](http://www.nceas.ucsb.edu/research/pd)
+2. [National Evolutionary Synthesis Center (NESCent)](http://www.nescent.org/science/postdoctoral.php)
+3. [National Institute for Mathematical and Biological Synthesis (NIMBioS)](http://www.nimbios.org/)
+4. [National Socio-Environmental Synthesis Center](http://www.sesync.org/opportunities)
+5. [UC Davis Center for Population Biology](http://cpb.ucdavis.edu/CPB%20Postdoc%20Fellowship.html)
+6. [University of Michigan Society of Fellows](http://societyoffellows.umich.edu/) 
+7. [Miller Research Fellowships (Berkeley)](http://millerinstitute.berkeley.edu/page.php?nav=11)
+8. [UCLA La Kretz Center for California Conservation Science](http://www.environment.ucla.edu/lakretz/news/article.asp?parentid=18599)
+9. [Woods Hole Oceanographic Institute](http://www.whoi.edu/education/postdoctoral/scholarship.html)
+10. [Scripps Institution of Oceanography](https://scripps.ucsd.edu/postdocs/program)
+11. [Friday Harbor Laboratories (UW)](http://depts.washington.edu/fhl/resPdocFellowInfo.html)
+12. [Institute for Marine and Coastal Sciences (Rutgers)](http://marine.rutgers.edu/main/IMCS-Opportunities-Postdocs/IMCS-is-looking-for-Postdoctoral-Fellows.html)
+13. [Center for Ocean Solutions](http://www.centerforoceansolutions.org/early-career-fellows-program)
+14. [Santa Fe Institute](http://www.santafe.edu/education/fellowships-postdoctoral.php)
+15. [International Institute for Applied Systems Analysis](http://www.iiasa.ac.at/web/home/education/postdocs.html)
+16. [Mathematical BioSciences Institute (MBI, Ohio State University)](http://www.mbi.ohio-state.edu/postdoctoral/postdoctoral.html)
+17. [Smithsonian Institution](http://www.si.edu/ofg/Applications/SIFELL/SIFELLapp.htm)
+18. [American Museum of Natural History](http://rggs.amnh.org/pages/academics_and_research/fellowship_and_grant_opportunities)
+19. [Brown University Postdoctoral Research Associate in Environment & Society](http://www.brown.edu/academics/institute-environment-society/opportunities)
+20. [Purdue Postdoctoral Scholars in Natural Resources](https://ag.purdue.edu/fnr/Pages/default.aspx)
+
 ## Underrepresented groups
+
+1. [Ford Foundation Diversity Fellowships](http://sites.nationalacademies.org/pga/fordfellowships/index.htm)
+2. [Graduate Women in Science](http://www.gwis.org/?page=fellowship_program)
+3. [American Association of University Women](http://www.aauw.org/fga/index.cfm)
+4. [L'Oreal USA for Women in Science](http://www.lorealusa.com/Foundation/Article.aspx?topcode=Foundation_AccessibleScience_Fellowships)
+5. [UC President's Postdoctoral Fellowship Program](http://ppfp.ucop.edu/info/about-ppfp/index.html)
+6. [UC Davis Chancellor's Postdoctoral Fellowship Program](https://gradstudies.ucdavis.edu/postdoctoral/grants-fellowships/chancellors-postdoctoral-fellowship-program-cpfp)
+7. [Minority Postdoc](http://minoritypostdoc.org/) (postings and resources)
